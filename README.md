@@ -8,7 +8,7 @@ No, this template is free and public for anyone to use. You are welcome to utili
 
 # Installation
 
-- Download the source code from [here](https://github.com/iiDk-the-actual/iis.Plugin.Template/releases/latest)
+- Download the source code from [here](https://github.com/novaissilly/SeralythPlugin-Unofficial)
 - Change your `<GamePath>` (Gorilla Tag directory) in `Directory.Build.props` if required
 - Remove and re-add the Seralyth Menu dependency if required
 - Change the plugin namespace by right clicking `SeralythPlugin` at the top of your Solution Explorer (.csproj, the one with C# next to it), renaming it, then syncing the namespaces 
